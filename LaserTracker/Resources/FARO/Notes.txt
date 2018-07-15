@@ -1,0 +1,16 @@
+***********************************************************************
+***********************************************************************
+Si s'utilitza el DLL_FARO:
+
+A posar a C:\FARO\
+Si es posa a un altre directori:
+1- La direccio NO POT CONTENIR ESPAIS
+2- S'han de canviar els directoris al fitxer Matlab FARO_Initialise()
+
+Si es compila un nou EXE_FARO.exe, reemplacarlo pel que hi ha
+
+***********************************************************************
+***********************************************************************
+***********************************************************************
+Si s'utilitza el classic que es comunica per mode fitxer:
+A posar a C:\LT\ la carpeta LT

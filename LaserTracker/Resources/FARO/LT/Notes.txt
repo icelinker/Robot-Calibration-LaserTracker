@@ -1,0 +1,16 @@
+Needed this Folder in C:\
+(DLLwithEXE and LibraryLinker are not necessary)
+DLLwithEXE is the DLL that must always go with the .exe file
+LibraryLinker is the library to link with the c++ program
+
+Quan es crea un nou projecte amb C++ :
+
+per evitar l'error de tipus incompatibles amb CHAR i string i LPARAM i ... :
+ Project-> properties
+ Configuration properties->General->character set -> Use Multibyte Character Set
+
+Per unir amb la llibreria .lib (library linker) s'ha despecificar el seguent :
+ Project-> properties
+ Configuration properties-> Linker -> General -> Additional Library Directories -> donar c:\LibraryLinker
+ OK, despres :
+ Configuration properties-> Linker -> input -> additional dependencies -> afegir a la llista : tracker.lib

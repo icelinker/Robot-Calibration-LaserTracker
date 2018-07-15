@@ -1,0 +1,64 @@
+:Base SMXCompIT.hlp>Main
+1 Getting Started with SMXCompIT
+2 Overview=Overview@SMXCompIT.hlp>Main
+2 Software Installation=SoftwareInstallation@SMXCompIT.hlp>Main
+2 Getting Started
+3 Getting Started=GettingStarted@SMXCompIT.hlp>Main
+3 Starting SMXCompIT
+4 Starting SMXCompIT=StartingSMXCompIT@SMXCompIT.hlp>Main
+4 Launching SMXCompIT from the Start Menu=LaunchingSMXCompITfromtheStartMenu@SMXCompIT.hlp>Proc
+4 Launching SMXCompIT through SMXInsight=LaunchingSMXCompITthroughSMXInsight@SMXCompIT.hlp>Proc
+3 Model in the Head
+4 Model in the Head=ModelintheHead@SMXCompIT.hlp>Main
+3 SMXCompIT Main Screen
+4 SMXCompIT Main Screen=SMXCompITMainScreen@SMXCompIT.hlp>Main
+3 Database File
+4 Database File=DatabaseFile@SMXCompIT.hlp>Main
+1 Pointing CompIT
+2 Introduction=Introduction1@SMXCompIT.hlp>Main
+2 References=References1@SMXCompIT.hlp>Main
+2 Equipment=Equipment1@SMXCompIT.hlp>Main
+2 Procedure
+3 Procedure=Procedure1@SMXCompIT.hlp>Main
+3 Interim Test (Upright Tracker)=InterimTest.UprightTracker.@SMXCompIT.hlp>Main
+3 Traditional Aim Compensation (Upright Tracker)
+4 Traditional Aim Compensation (Upright Tracker)=TraditionalAimCompensation.UprightTracker.@SMXCompIT.hlp>Main
+4 TAC Part 1 (Upright-Tracker)=TACPart1.Upright.Tracker.@SMXCompIT.hlp>Proc
+4 TAC Part 2 (Upright-Tracker)=TACPart2.Upright.Tracker.@SMXCompIT.hlp>Proc
+3 Pointing (Side-Mounted Tracker)
+4 Pointing (Side-Mounted Tracker)=Pointing.Side.MountedTracker.@SMXCompIT.hlp>Main
+4 Interim Test Points (Side-Mounted)=InterimTestPoints.Side.Mounted.@SMXCompIT.hlp>Proc
+4 TAC Part 1 Points (Side-Mounted)=TACPart1Points.Side.Mounted.@SMXCompIT.hlp>Proc
+4 TAC Part 2 Points (Side-Mounted)=TACPart2Points.Side.Mounted.@SMXCompIT.hlp>Proc
+3 Pointing (User-Defined Points)
+4 Pointing (User-Defined Points)=Pointing.User.DefinedPoints.@SMXCompIT.hlp>Main
+1 Squareness CompIT
+2 Introduction=Introduction2@SMXCompIT.hlp>Main
+2 References=References2@SMXCompIT.hlp>Main
+2 Equipment=Equipment2@SMXCompIT.hlp>Main
+2 Procedure
+3 Procedure=Procedure2@SMXCompIT.hlp>Main
+3 Preliminary Information=PreliminaryInformation@SMXCompIT.hlp>Main
+3 Tracker Setup=TrackerSetup1@SMXCompIT.hlp>Main
+3 Squareness Layout=SquarenessLayout@SMXCompIT.hlp>Main
+3 Squareness Interim Test=SquarenessInterimTest@SMXCompIT.hlp>Main
+3 Squareness Compensation=SquarenessCompensation@SMXCompIT.hlp>Main
+1 R0 CompIT
+2 Introduction=Introduction3@SMXCompIT.hlp>Main
+2 References=References3@SMXCompIT.hlp>Main
+2 Equipment=Equipment3@SMXCompIT.hlp>Main
+2 Procedure
+3 Procedure=Procedure3@SMXCompIT.hlp>Main
+3 Tracker Setup=TrackerSetup2@SMXCompIT.hlp>Main
+3 Preparation=Preparation@SMXCompIT.hlp>Main
+3 Tracker Position 1 - Tracker in-between the Two Targets=TrackerPosition1.Trackerin.betweentheTwoTargets@SMXCompIT.hlp>Main
+3 Tracker Position 2 - Tracker in line-of-sight (bucked-in) to Points 1 and 2.=TrackerPosition2.Trackerinline.of.sight.bucked.in.toPoints1and2.@SMXCompIT.hlp>Main
+1 Level CompIT
+2 Introduction=Introduction4@SMXCompIT.hlp>Main
+2 References=References4@SMXCompIT.hlp>Main
+2 Equipment=Equipment4@SMXCompIT.hlp>Main
+2 Procedure
+3 Procedure=Procedure4@SMXCompIT.hlp>Main
+3 Tracker Setup=TrackerSetup3@SMXCompIT.hlp>Main
+3 Preparation (optional)=Preparation.optional.@SMXCompIT.hlp>Main
+3 Level Compensation=LevelCompensation@SMXCompIT.hlp>Main

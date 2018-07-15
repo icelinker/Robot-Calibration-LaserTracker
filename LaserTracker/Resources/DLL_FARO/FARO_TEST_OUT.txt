@@ -1,0 +1,24 @@
+ans = 
+    temperature: 21.7315
+       pressure: 756.8830
+       humidity: 39.3642
+ans =
+     2
+Statistics for 10 ms measure
+ans = 
+             max: [1.2505e+003 1.0705e+003 -216.5680]
+            mean: [1.2505e+003 1.0705e+003 -216.5704]
+      mean_error: 0.0034
+          st_dev: 0.0031
+    error_3sigma: 0.0127
+       error_max: 0.0127
+          errors: [1x100 double]
+Statistics for 100 ms measure
+ans = 
+             max: [1.2505e+003 1.0705e+003 -216.5650]
+            mean: [1.2505e+003 1.0705e+003 -216.5691]
+      mean_error: 0.0072
+          st_dev: 0.0049
+    error_3sigma: 0.0220
+       error_max: 0.0183
+          errors: [1x100 double]
